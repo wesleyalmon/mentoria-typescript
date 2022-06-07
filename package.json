@@ -1,0 +1,24 @@
+{
+  "name": "mentoria-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyalmon/mentoria-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyalmon/mentoria-typescript/issues"
+  },
+  "homepage": "https://github.com/wesleyalmon/mentoria-typescript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
