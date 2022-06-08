@@ -3,7 +3,7 @@ type Employee = {
   name: string
 }
 
-let employee: Employee ={
+let employee: Employee = {
   code: 10,
   name: "John",
 }
